@@ -8,6 +8,6 @@ metadata:
 spec:
   source:
     git:
-      url: https://github.com/sample-accelerators/spring-sql-jpa.git
+      url: https://github.com/egedsoft/spring-sql-jpa.git
       ref:
         branch: main
